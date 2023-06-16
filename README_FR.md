@@ -1,6 +1,6 @@
 # Poker d'enfer
 
-Un jeu inventé le 6 septembre 2022 par un groupe d'amis à Montréal
+Un variante du [Texas hold'em](https://fr.wikipedia.org/wiki/Texas_hold%27em) qui remplace les jetons par des sauces piquantes. Fut inventé le 6 septembre 2022 par un groupe d'amis à [Montréal](https://fr.wikipedia.org/wiki/Montreal)
 
 ## Histoire
 
