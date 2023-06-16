@@ -6,6 +6,8 @@ A variant of [Texas hold'em](https://en.wikipedia.org/wiki/Texas_hold_%27em) whi
 
 - [Français](README_FR.md)
 
+![hot sauces row](assets/hot-sauces-row.jpg)
+
 ## History
 
 ## Rules

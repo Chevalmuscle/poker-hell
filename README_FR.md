@@ -2,6 +2,8 @@
 
 Un variante du [Texas hold'em](https://fr.wikipedia.org/wiki/Texas_hold%27em) qui remplace les jetons par des sauces piquantes. Fut inventé le 6 septembre 2022 par un groupe d'amis à [Montréal](https://fr.wikipedia.org/wiki/Montreal)
 
+![hot sauces row](assets/hot-sauces-row.jpg)
+
 ## Histoire
 
 Cette variante du [Texas hold'em](https://fr.wikipedia.org/wiki/Texas_hold%27em) tient son origine d'une soirée le 6 septembre 2022 où, un groupe d'amis de longue date originaire de [Gatineau](https://fr.wikipedia.org/wiki/Gatineau) et maintenant à [Montréal](https://fr.wikipedia.org/wiki/Montreal) voulaient jouer au poker, mais n'avaient pas de jetons. Ces derniers jouent alors une partie normale, mais avec des mises fictives. Cela n'offrait pas le même niveau d'adrénaline, alors ces derniers arrêtèrent.
