@@ -24,8 +24,8 @@ Des sauces piquantes sont placés au milieu de la table (laissant de la place po
 
 - Relancer / To raise: consiste à miser une sauce piquante plus élevé que la mise actuelle
 - Suivre / To call: consiste à rester dans la ronde à la mise actuelle
-- Se coucher / To fold; consiste à abandonner pour la ronde. Il devra consommer la sauce piquante à hauteur de sa mise et pourra jouer à la ronde suivante. Voir [consommation de la sauce piquante](consommation-de-la-sauce-piquante)
-- Parler / To check; consiste à rester dans la ronde à la mise actuelle à condition que personne n'ait relancé dans le tour
+- Se coucher / To fold: consiste à abandonner pour la ronde. Il devra consommer la sauce piquante à hauteur de sa mise et pourra jouer à la ronde suivante. Voir [consommation de la sauce piquante](consommation-de-la-sauce-piquante)
+- Parler / To check: consiste à rester dans la ronde à la mise actuelle à condition que personne n'ait relancé dans le tour
 
 Blinds:
 
