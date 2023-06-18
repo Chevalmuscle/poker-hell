@@ -8,7 +8,7 @@ Un variante du [Texas hold'em](https://fr.wikipedia.org/wiki/Texas_hold%27em) qu
 
 Cette variante du [Texas hold'em](https://fr.wikipedia.org/wiki/Texas_hold%27em) tient son origine d'une soirée le 6 septembre 2022 où, un groupe d'amis de longue date originaire de [Gatineau](https://fr.wikipedia.org/wiki/Gatineau) et maintenant à [Montréal](https://fr.wikipedia.org/wiki/Montreal) voulaient jouer au poker, mais n'avaient pas de jetons. Ces derniers jouent alors une partie normale, mais avec des mises fictives. Cela n'offrait pas le même niveau d'adrénaline, alors ces derniers arrêtèrent.
 
-Plus tard dans la soirée, le groupe d'amis mangent des ailes de poulet avec leurs sauces piquantes préférées comme souper. Sans raison particulière, ceux-ci se mirent à se défier à mettre des sauces piquantes plus intenses que leurs ailes afin de montrer leur résistance aux autres membres de la bande. C'est à cet instant que l'idée de mélanger Poker et sauce piquante née.
+Plus tard dans la soirée, le groupe d'amis mangent des ailes de poulet avec leurs sauces piquantes préférées comme souper. Sans raison particulière, ceux-ci se mirent à se défier à mettre des sauces piquantes plus intenses sur leurs ailes afin de montrer leur résistance aux autres membres de la bande. C'est à cet instant que l'idée de mélanger Poker et sauce piquante née.
 
 Au fil des soirées, le groupe d'amis peaufinent les règles de ce nouveau jeu qu'ils ont inventé: Poker d'enfer. La gestion des blinds fut introduite ainsi que la variante [The final countdown](#the-final-countdown)
 
