@@ -38,7 +38,7 @@ Blinds:
 
 ### Consumption of the hot sauce
 
-Each player who folds or loses at the [showdown](https://en.wikipedia.org/wiki/Showdown_(poker)) must consume the hot sauce equivalent to their bet or none if they didn't have a blind. The hot sauce can be consumed as is or on a medium such as a chicken wing or chip.
+Each player who folds or loses at the [showdown](https://en.wikipedia.org/wiki/Showdown_(poker)) must consume the hot sauce equivalent to their bet or none if they didn't have a blind. The hot sauce can be consumed as is or on a medium such as a chicken wing or a chip.
 
 ## Variants
 
